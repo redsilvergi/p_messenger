@@ -7,7 +7,7 @@ let mes = {
 
 let bin = [];
 
-const mess_maker = (sub,mv,v,o) => {
+const mess_maker = () => {
     for (key in mes) {
         mes[key][Math.floor(Math.random()*(mes[key].length))].push(bin)
     }
