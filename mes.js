@@ -4,7 +4,6 @@ let mes = {
     verb: ['do','fuck','love','go through','help'],
     object: ['pizza','her','book','you']
 }
-
 let bin = [];
 
 const mess_maker = () => {
